@@ -1,0 +1,9 @@
+Prerequisites: 
+	- install xclip
+
+In Fedora:
+
+Go to "Keybord shorcuts": Add new shortcut
+	- Name: {custom}
+	- command: sh {path/to/script}/so-helper.sh
+	- hotkey: {custom}
